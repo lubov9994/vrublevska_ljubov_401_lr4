@@ -1,0 +1,13 @@
+javaee\diststudy\servlets\SearchServlet.class
+javaee\diststudy\servlets\UpdateServlet.class
+javaee\diststudy\entity\Dysciple_.class
+javaee\diststudy\entity\DyscipleTeacher.class
+javaee\diststudy\entity\DyscipleTeacher_.class
+javaee\diststudy\dao\EntityDAO.class
+javaee\diststudy\dao\ConnectorDB.class
+javaee\diststudy\dao\TeacherManager.class
+javaee\diststudy\entity\Dysciple.class
+javaee\diststudy\dao\TeacherDAO.class
+javaee\diststudy\entity\Teacher.class
+javaee\diststudy\entity\Teacher_.class
+javaee\diststudy\servlets\MainServlet.class
